@@ -93,5 +93,3 @@ The **Smart Car Parking System** is an Arduino-based project designed to automat
 [![Watch Demo](https://img.youtube.com/vi/plL0EiuXplA/0.jpg)](https://youtube.com/shorts/plL0EiuXplA)
 
 ```
-
-
